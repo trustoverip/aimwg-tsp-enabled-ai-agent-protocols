@@ -1,22 +1,22 @@
-ToIP Template Specification
+TSP-Enabled AI Agent Protocols
 ==================
 
 **Specification Status**: v1.0 Draft
 
 **Latest Draft:**
 
-[https://github.com/trustoverip/specification-template](https://github.com/trustoverip/specification-template)
+[https://github.com/trustoverip/aimwg-tsp-enabled-ai-agent-protocols](https://github.com/trustoverip/aimwg-tsp-enabled-ai-agent-protocols)
 
 **Editors:**
 
-- [Kevin Griffin](https://github.com/m00sey), [GLEIF](https://gleif.org)
+- [Wenjing Chu](https://github.com/wenjing), [Futurewei Technologies, Inc.](https://www.futurewei.com)
 
 **Contributors:**
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/trustoverip/specification-template)
-~ [Commit history](https://github.com/trustoverip/specification-template/commits/main)
+~ [GitHub repo](https://github.com/trustoverip/aimwg-tsp-enabled-ai-agent-protocols)
+~ [Commit history](https://github.com/trustoverip/aimwg-tsp-enabled-ai-agent-protocols/commits/main)
 
 ------------------------------------
 
