@@ -8,7 +8,7 @@ This is the working area for the **TSP-Enabled AI Agent Protocols** specificatio
 
 All Trust Over IP Foundation contributions are made under the following licenses:
 
-* [Patent and Copyright Grants](CONTRIBUTING.md)
+* [Patent and Copyright Grants](Contributing.md)
 * [Source Code](SOURCE_CODE.md)
 
 ## Licensing
