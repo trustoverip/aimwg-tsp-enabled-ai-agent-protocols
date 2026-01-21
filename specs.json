@@ -1,12 +1,11 @@
-
 {
   "specs": [
     {
-      "title": "ToIP Template Specification",
+      "title": "TSP-Enabled AI Agent Protocols",
       "spec_directory": "./spec",
       "output_path": "./docs",
       "markdown_paths": [
-        "title.md", 
+        "title.md",
         "header.md",
         "toc.md",
         "foreword.md",
@@ -19,12 +18,12 @@
         "biblio.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/logo-assets/master/logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg",
-      "logo_link": "https://github.com/trustoverip/specification-template",
+      "logo_link": "https://github.com/trustoverip/aimwg-tsp-enabled-ai-agent-protocols",
       "katex": true,
       "source": {
         "host": "github",
         "account": "trustoverip",
-        "repo": "specification-template"
+        "repo": "aimwg-tsp-enabled-ai-agent-protocols"
       }
     }
   ]
